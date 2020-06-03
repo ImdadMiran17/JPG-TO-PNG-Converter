@@ -14,3 +14,5 @@ The script takes two folder names.The first folder will be full of jpg images th
 
 ## Mac:
 > jpgTOpngConver.py image_folder\ output_folder\
+
+**NB:Don't forget those slashes**
