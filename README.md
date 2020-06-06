@@ -13,6 +13,6 @@ The script takes two folder names.The first folder will be full of jpg images th
 > python3 jpgTOpngConver.py image_folder/ output_folder/
 
 ## Mac:
-> python3 jpgTOpngConver.py image_folder\ output_folder\
+> python3 jpgTOpngConver.py image_folder/ output_folder/
 
 **NB:Don't forget those slashes**
